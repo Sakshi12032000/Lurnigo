@@ -1,12 +1,37 @@
 .achievements{
-
-    flex-basis: 56%;
-    text-align: center;
+    align-items: center;
 }
 .achievements p{
+    text-align: left ;
+    font-size: 50px;
     color: black;
-    margin-bottom: 15px;
-    font-size: 30px;
-    font-weight: 600px;
-    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width : 650px){
+    .achievements{
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
+
+
