@@ -22,9 +22,52 @@
 }
 .about h1{
     font-size: 40px;
-    color: #05093;
+    color: #050932;
 }
 .about img{
     border-radius: 10px;
     width: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width :800px){
+    .about{
+        flex-direction: column;
+    }
+    .about h3{
+        font-size: 20px;
+    }
+    .about h2{
+           font-size: 20px;
+    }
+    .about p{
+        text-align: left;
+        font-size: 14px;
+        margin: auto;
+    }
+    .about h1{
+        font-size: 20px;
+    }
+    .about img{
+        border-radius: 7px;
+        width: 340px;
+    }
 }
