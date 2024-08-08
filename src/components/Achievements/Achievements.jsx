@@ -8,7 +8,7 @@ const Achievements = () => {
         
         <p>Life is a journey filled with milestones that deserve acknowledgment and celebration. One of the most effective ways to express your joy and support for someone’s achievements is through congratulations messages.
         </p>
-        <img src={achieve_icon} alt=''/>
+        
             </div>
   )
 }
