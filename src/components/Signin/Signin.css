@@ -56,3 +56,37 @@
 
 
 
+
+@media (max-width : 650px){
+        
+.inputs{
+    gap: 25px;
+}
+.input{
+    width: 240px;
+    height: 40px;
+    border-radius: 3px;
+}
+.input img{
+
+    margin: 0px 15px;
+}
+.input input{
+    height: 30px;
+    width: 200px;
+    font-size: 14px;
+
+}
+.submit{
+    width: 120px;
+    height: 29px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.submit-container{
+    gap: 10px;
+    margin: 20px auto;
+}
+
+
+}
